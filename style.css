@@ -1,0 +1,15 @@
+body {
+    font-family: 'The Monkey';
+}
+
+.hero {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    text-shadow: 100px 100px 0 rgba(243, 85, 24, 0.7), -100px 100px 0 rgba(75, 42, 108, 0.7), 100px -100px 0 rgba(15, 200, 150, 0.7), -100px -100px 0 rgba(185, 25, 85, 0.7);
+}
